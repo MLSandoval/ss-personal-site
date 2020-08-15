@@ -1,22 +1,23 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name":"Steve Sandoval",
+    "description":"Entertainment Producer | DJ & MC | Auctioneer | Presentation Systems Expert | Singer",
+    "image":"steve_profile_pic.jpg",
+    "bio":"Whether on television or film, on stage, at banquets, weddings, musical events, or private corporate events, one driving force has focused me in my career: to deliver premium quality production content using the latest technologies, tools, and practices to make my clients happy.",
+    "bio2": "I wear many hats, but my aim is to always produce excellence. With over 25 years experience in the entertainment industry, 30 years administering presenation and event solutions, and 35 years DJ'ing, you can be sure our next endeavor will be a success.",
+    "contactmessage":"Contact me with an email below. If you have a job opportunity, an inquiry, or would like a consulation, let's talk.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Soul Shelter Ent. Address",
+      "city":"Soul Shelter Ent. Address",
+      "state":"Soul Shelter Ent. Address",
+      "zip": "Soul Shelter Ent. Address"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://stevesandoval.pro",
+    "resumedownload":"https://github.com/SMSandoval/md-resume",
     "social":[
       {
         "name":"facebook",
@@ -40,7 +41,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/SMSandoval",
         "className":"fa fa-github"
       }
     ]
